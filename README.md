@@ -43,3 +43,6 @@ $b->tampilWarna();
 
 
 2.form_input.php
+
+![image](https://github.com/azzamsauqi2004/lab10_php_oop/assets/116098921/bfd02efb-0205-4cfe-b065-e86882475d47)
+
